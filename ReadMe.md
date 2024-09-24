@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a node.js Developer<br>I'm in cyber security management<br>I'm a Frontend and  backend developer<br><br>
+I'm a Node.JS Developer<br>I'm a Cyber Security Manager<br>I'm a Frontend and Backend Developer<br><br>
 
 
 ## 🌐 Socials:
